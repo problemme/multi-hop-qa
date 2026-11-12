@@ -1,0 +1,11 @@
+generator: Qwen/Qwen3.5-4B
+verifier: google/gemma-4-E2B-it
+# Resolve and pin exact model revisions before evaluation.
+generator_revision: null
+verifier_revision: null
+retriever: bm25
+top_k: 5
+max_hops: 6
+max_repairs_per_hop: 1
+seed: 42
+pilot_size: 50

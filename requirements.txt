@@ -1,0 +1,11 @@
+# Starting dependencies; pin validated versions after the GPU pilot.
+torch
+transformers
+accelerate
+sentencepiece
+datasets
+rank-bm25
+numpy
+pandas
+pyyaml
+scikit-learn
