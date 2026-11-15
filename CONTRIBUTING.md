@@ -8,7 +8,7 @@
 6. Open a PR to main; request another teammate's review before merging.
 7. Pull updated main before creating a fresh branch for your next task.
 
-Initial branches: zhenghao/baselines, haosen/retrieval, xinyue/verifier, shutong/evaluation.
+Initial branches: zhenghao/retrieval, haosen/baselines, xinyue/verifier, shutong/evaluation.
 
 Agree on docs/interfaces.md before integration. Each run must record commit SHA,
 dataset/split IDs, model revisions, prompts, inference settings, and random seed.
