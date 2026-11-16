@@ -6,8 +6,8 @@ This repository is a collaboration scaffold; model pipelines are not implemented
 ## Team
 | Owner | Module | Deliverable |
 |---|---|---|
-| Zhenghao Zhang | src/baselines | Qwen inference, IRCoT/ReAct controllers, step logs |
-| Haosen Zhang | src/retrieval | Dataset preparation, deduplicated passages, BM25 top-5 |
+| Haosen Zhang | src/baselines | Qwen inference, IRCoT/ReAct controllers, step logs |
+| Zhenghao Zhang | src/retrieval | Dataset preparation, deduplicated passages, BM25 top-5 |
 | Xinyue Xia | src/verification | Gemma verification, verdict parsing, bounded repair |
 | Shutong Lv | src/evaluation | Splits, scoring, cost tracking, error analysis |
 
